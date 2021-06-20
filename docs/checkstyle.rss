@@ -2,20 +2,20 @@
 
 <rss version="0.91">
   <channel>
-    <title>prolobjectlink-jpb-jpl-swi7 - Checkstyle report</title>
-    <link>https://prolobjectlink.github.io/prolobjectlink-jpb-jpl-swi7</link>
-    <description>prolobjectlink-jpb-jpl-swi7 - Checkstyle report</description>
+    <title>prolobjectlink-pib-jpl-swi7 - Checkstyle report</title>
+    <link>https://prolobjectlink.github.io/prolobjectlink-pib-jpl-swi7</link>
+    <description>prolobjectlink-pib-jpl-swi7 - Checkstyle report</description>
     <language>en-us</language>
-    <copyright>&#169;2020 Prolobjectlink Project</copyright>
+    <copyright>&#169;2020 - 2021 Prolobjectlink Project</copyright>
     <item>
       <title>File: 1,
              Errors: 1714,
              Warnings: 0,
              Infos: 0
       </title>
-            <link>https://prolobjectlink.github.io/prolobjectlink-jpb-jpl-swi7/checkstyle.html</link>
+            <link>https://prolobjectlink.github.io/prolobjectlink-pib-jpl-swi7/checkstyle.html</link>
       <description>
-        <p>Click <a href="https://prolobjectlink.github.io/prolobjectlink-jpb-jpl-swi7/checkstyle.html">here</a> for the full Checkstyle report.</p>
+        <p>Click <a href="https://prolobjectlink.github.io/prolobjectlink-pib-jpl-swi7/checkstyle.html">here</a> for the full Checkstyle report.</p>
 
         <table summary="Files" boder="1">
           <thead>
@@ -29,7 +29,7 @@
           <tbody>
                           <tr>
                 <td>
-                  <a href="https://prolobjectlink.github.io/prolobjectlink-jpb-jpl-swi7/checkstyle.html#io.github.prolobjectlink.prolog.jpl.swi7.Swi7BenchmarkRunner.java">io/github/prolobjectlink/prolog/jpl/swi7/Swi7BenchmarkRunner.java</a>
+                  <a href="https://prolobjectlink.github.io/prolobjectlink-pib-jpl-swi7/checkstyle.html#io.github.prolobjectlink.prolog.jpl.swi7.Swi7BenchmarkRunner.java">io/github/prolobjectlink/prolog/jpl/swi7/Swi7BenchmarkRunner.java</a>
                 </td>
                 <td>
                   0
